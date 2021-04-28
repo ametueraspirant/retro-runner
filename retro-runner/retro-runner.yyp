@@ -4,7 +4,6 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"SnowState","path":"scripts/SnowState/SnowState.yy",},"order":1,},
     {"id":{"name":"__snowstate_config","path":"scripts/__snowstate_config/__snowstate_config.yy",},"order":0,},
-    {"id":{"name":"MovementEngine","path":"scripts/MovementEngine/MovementEngine.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
